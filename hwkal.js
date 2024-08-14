@@ -2,22 +2,22 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39'
+global.gr = 'https://chat.whatsapp.com/HR76L0EPTf44pP0IBsN0vD'
 global.ig = 'confronter._' // ubah aja
-global.email = 'confrontermfisa@gmail.com' //serah
-global.region = 'kenya' // serah
+global.email = 'mensahdesmond780@gmail.com' //serah
+global.region = 'Ghana' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254111766934'] // ubah aja pake nomor lu
+global.owner = ['233549772750,233500850221'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' // ubah aja ini nama sticker
+global.packname = 'Andrew' // ubah aja ini nama sticker
 global.author = '𝐂𝐎𝐍𝐅𝐑𝐎𝐍𝐓𝐄𝐑' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
-global.autoviewstatus = process.env.autoviewstatus || "TRUE"
+global.autoviewstatus = process.env.autoviewstatus || "false"
 global.wlcm = []
 global.wlcmm = []
 global.anticall = true
